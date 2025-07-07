@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rick-and-morty/static/css/main.869ee58a.css",
+    "main.js": "/rick-and-morty/static/js/main.105132de.js",
+    "static/media/green-portal.png": "/rick-and-morty/static/media/green-portal.a218ca229093de6f08d2.png",
+    "static/media/widget-logo.png": "/rick-and-morty/static/media/widget-logo.42c8df0b92603ef2e2e2.png",
+    "static/media/male.svg": "/rick-and-morty/static/media/male.42d01c2c5e1d7025a594642a761f1939.svg",
+    "index.html": "/rick-and-morty/index.html",
+    "static/media/cross.svg": "/rick-and-morty/static/media/cross.9bef2a3015f783995fa175f9c03a1ad9.svg",
+    "static/media/genderless.svg": "/rick-and-morty/static/media/genderless.dec799ed2f3cfbb46522c185f9dbb030.svg",
+    "static/media/female.svg": "/rick-and-morty/static/media/female.02f202d68bdd63c12690625cf6aec3fd.svg",
+    "static/media/chevron.svg": "/rick-and-morty/static/media/chevron.75c31fd6a6cd47dfe4961c5d27340173.svg",
+    "main.869ee58a.css.map": "/rick-and-morty/static/css/main.869ee58a.css.map",
+    "main.105132de.js.map": "/rick-and-morty/static/js/main.105132de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.869ee58a.css",
+    "static/js/main.105132de.js"
+  ]
+}
