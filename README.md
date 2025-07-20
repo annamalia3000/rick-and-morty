@@ -1,1 +1,1 @@
-# Elfsight Test Task (Rick and Morty API)
+# Test Task (Rick and Morty API)
